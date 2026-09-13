@@ -1,0 +1,14 @@
+---
+description: Cursor 与 Obsidian Copilot 共用 vault 时的读写一致性
+alwaysApply: true
+---
+
+# 双 Agent 一致性
+
+`AGENTS.md` 对 Cursor 和 Copilot 同样有效。知识笔记的权威路径是 Obsidian vault。
+
+`GET https://127.0.0.1:27124/` 成功时：知识笔记的读/写走 REST 或 MCP（`PUT`/`PATCH` `/vault/...`），不要用 Cursor 直写 `.md`。Copilot 可能同时开着同一文件。
+
+同一文件不要并行全文覆盖。先读再写；`PATCH` 尽量带 `ifMatch`。新建前先搜索，避免重复概念。
+
+不要改 `copilot/`、`.claude/`、`.agents/`、`.opencode/`。Copilot 也不应改 `.cursor/`。

@@ -1,0 +1,12 @@
+{
+  "userIgnoreFilters": [
+    "copilot/",
+    ".cursor/",
+    ".claude/",
+    ".agents/",
+    ".opencode/",
+    "AGENTS.md",
+    "Meta/schema.md",
+    "Meta/templates/"
+  ]
+}

@@ -1,0 +1,20 @@
+---
+description: PPK 笔记分层、类型化 wikilink 与 Agent-only 写入
+alwaysApply: true
+---
+
+# 笔记纪律
+
+写库前读 `Meta/schema.md`。每篇必须有 `type`、`status`、`updated`、`aliases`，以及 tag `#type/<type>`。
+
+目录：`Inbox/` `Daily/` `Sources/` `Concepts/` `Maps/` `Areas/` `Projects/` `Outputs/`。新笔记用 `Meta/templates/`。
+
+允许的 `[[wikilink]]`：source→concept；daily→concept|area|project；concept→concept（仅真正关系）；moc→成员；area→概念/项目；output→引用。禁止日记互链、来源乱连、为 Graph 硬连。
+
+输入先 Inbox / Daily / Source，理解进 Concepts，不要把原文糊进概念笔记。输出进 `Outputs/briefings/` 或 `Outputs/decisions/`，并列出引用。
+
+多源互证：后一书讲到相近主张时必须落盘——同机制则加深旧概念并分列角度，异机制则新建并链接；禁止因“库里已有类似”而省略。跨书互证提高参考价值，见 `Meta/schema.md`。
+
+整理口吻：落盘与面向用户的整理/问答用 mentor 语气，通畅易读；拒电报体与 AI 套话，见 `Meta/schema.md`「正文文笔与整理口吻」。
+
+`GET /` 成功时知识笔记走 REST/MCP 读写，勿直写 `.md`（Copilot 可能同时在用）。失败则回退读文件并说明。不读插件 `data.json`。

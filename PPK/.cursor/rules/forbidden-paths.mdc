@@ -1,0 +1,18 @@
+---
+description: 禁止改动 Obsidian 插件、Copilot 工作区及相关配置
+alwaysApply: true
+---
+
+# 禁区
+
+不得创建、修改、删除或重命名：
+
+- `.obsidian/community-plugins.json`
+- `.obsidian/core-plugins.json`
+- `.obsidian/plugins/` 整棵（含 `obsidian-git`、`copilot`、`obsidian-local-rest-api` 及任何 `data.json`）
+- vault 根 `copilot/`
+- `.claude/`、`.agents/`、`.opencode/`
+
+不要读取 REST 插件 `data.json` 里的密钥。使用环境变量 `OBSIDIAN_API_KEY`。
+
+Cursor 技能只写在 `.cursor/skills/`，不要写进 `copilot/skills/`。Copilot 不要改 `.cursor/`。

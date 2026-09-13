@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "url": "http://127.0.0.1:27123/mcp/",
+      "headers": {
+        "Authorization": "Bearer <generated locally, do not commit>"
+      }
+    }
+  }
+}

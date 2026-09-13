@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#type/concept",
+      "color": {
+        "a": 1,
+        "rgb": 6003669
+      }
+    },
+    {
+      "query": "tag:#type/source",
+      "color": {
+        "a": 1,
+        "rgb": 15564081
+      }
+    },
+    {
+      "query": "tag:#type/daily",
+      "color": {
+        "a": 1,
+        "rgb": 10855845
+      }
+    },
+    {
+      "query": "tag:#type/moc",
+      "color": {
+        "a": 1,
+        "rgb": 7382343
+      }
+    },
+    {
+      "query": "tag:#type/area",
+      "color": {
+        "a": 1,
+        "rgb": 4485828
+      }
+    },
+    {
+      "query": "tag:#type/project",
+      "color": {
+        "a": 1,
+        "rgb": 16760832
+      }
+    },
+    {
+      "query": "tag:#type/output",
+      "color": {
+        "a": 1,
+        "rgb": 10053375
+      }
+    },
+    {
+      "query": "tag:#type/inbox",
+      "color": {
+        "a": 1,
+        "rgb": 16736260
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.081883645688281,
+  "close": true
+}
