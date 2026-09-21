@@ -15,11 +15,11 @@ tags:
 
 ## 是什么
 
-Time to Hello World 是 Learn 阶段的门闩：开发者按文档做到第一个可验证输出（Hello World）所需的时间。书里常以大约五分钟为基准。更复杂的产品可以更长，但开发者必须觉得这段时间值得。
+Time to Hello World 是 Learn 阶段的关口：开发者按文档做到第一个可验证输出（Hello World）所需的时间。书里常以大约五分钟为基准。更复杂的产品可以更长，但开发者必须觉得这段时间值得。
 
 ## 为何重要
 
-过不了 Time to Hello World，就不会进入 Build，更谈不上 Scale。Quickstart 如果过复杂，通常说明产品太复杂、文档不行，或缺少 sandbox 与样例数据。
+过不了 Time to Hello World，就不会进入 Build，更谈不上 Scale。Quickstart 如果太复杂，通常说明产品太复杂、文档不行，或缺少 sandbox 与样例数据。
 
 ## 实践含义
 

@@ -7,7 +7,7 @@ description: Writes vault-backed briefings and decision memos into Outputs/. Use
 
 Read `query-vault` / `obsidian-api` first so the piece is grounded. Do not write into `copilot/`.
 
-Voice: mentor tone—fluent, readable Chinese (or the note’s language), judgment first then reasons. No telegram lists as body text, no keyword dumps, no generic AI wrap-ups. Follow `Meta/schema.md`「正文文笔与整理口吻」and `.cursor/rules/note-prose.mdc`.
+Voice: mentor tone—fluent, readable Chinese (or the note’s language), judgment first then reasons. No telegram lists as body text, no keyword dumps, no generic AI wrap-ups. English sources are understood first, then rewritten in Chinese as a first language, not translated sentence by sentence. Follow `Meta/schema.md`「正文文笔与整理口吻」and `.cursor/rules/note-prose.mdc`.
 
 ## Briefing → `Outputs/briefings/<标题>.md`
 

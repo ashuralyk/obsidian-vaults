@@ -1,0 +1,17 @@
+---
+description: Force MiniMax H3 / Hailuo / 海螺 prompt formula when the task is H3 video generation. Do not use Seedance templates for these jobs.
+alwaysApply: true
+---
+
+# MiniMax H3 提示词强制规则
+
+只要本轮任务涉及 MiniMax H3、H3 Max、海螺 AI、Hailuo、MiniMax Design、全能参考、首尾帧，或用户点名要 H3 提示词：
+
+1. 先读并遵守 `minimax-h3-prompt` 技能（项目内 `.cursor/skills/minimax-h3-prompt/SKILL.md` 与同目录 `reference.md`；若个人目录已安装则也可用 `~/.cursor/skills/minimax-h3-prompt/`）。
+2. 用产品公式写：规格（时长 + 画幅）→ 素材绑定（图N/视频N/音频N）→ 主体、场景、运动、声音 → 镜头怎么落。交付可直接粘贴的中文整段提示词。
+3. 单条成片 4–15 秒（H3 Max 为 5–15 秒），只接受整数秒。不要写成 Seedance 的 30 秒一段再向后延长。
+4. 先定三类模式之一：文生、首/尾帧、全能参考。禁止把首帧角色和外形参考混用。
+5. 有参考必须写清参考什么、不参考什么。台词和屏幕字保留原文。
+6. 与 [H3 使用手册](https://vrfi1sk8a0.feishu.cn/wiki/FIWjwgL33ipnkekzk30crmKUnIh) 或 [开放平台视频生成文档](https://platform.minimaxi.com/docs/guides/video-generation) 冲突时，以官网文档为准。
+
+Seedance、即梦、火山方舟走 `seedance-prompt`。本轮与 H3 / 海螺无关则忽略细则，不必展开模板。

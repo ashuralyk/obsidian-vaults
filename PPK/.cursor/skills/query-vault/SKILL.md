@@ -17,7 +17,7 @@ description: Answers questions from this Obsidian vault with explicit note citat
 
 Start from `Maps/知识库地图.md` and area notes when the question is broad.
 
-Answer in 中文 unless the user writes otherwise. Use a mentor voice: fluent, readable prose; judgment first, then reasons. No telegram-style dumps or AI boilerplate. See `Meta/schema.md`「正文文笔与整理口吻」。
+Answer in 中文 unless the user writes otherwise. Use a mentor voice: fluent, readable prose; judgment first, then reasons. No telegram-style dumps or AI boilerplate. Sources may be English; the answer is Chinese writing, not a translation. See `Meta/schema.md`「正文文笔与整理口吻」。
 
 End with **引用** — vault-relative paths of notes you actually used.
 

@@ -1,0 +1,17 @@
+---
+description: Force official Seedance 2.5 prompt structure for video scripts, 分镜, 短视频剧本, and any Seedance/即梦/火山方舟 提示词. Do not invent prompt formats.
+alwaysApply: true
+---
+
+# Seedance 提示词强制规则
+
+只要本轮任务涉及 Seedance、即梦、火山方舟，或用户未点名其他模型的视频剧本 / 分镜 / 短视频提示词：
+
+1. 先读并遵守 `seedance-prompt` 技能（`~/.cursor/skills/seedance-prompt/SKILL.md` 与同目录 `reference.md`）。
+2. 提示词必须用官方结构化写法：素材绑定 → 一致性总谱（人物/场景/道具 ID） → 一句话概述 → 连续整数秒分镜 → 贯穿始终 → 要做 / 不要做。
+3. 单段直出最长 30 秒。3 分钟片拆成 6 段或「向后延长」，禁止一条 180 秒直出词。
+4. 人物、场景、关键道具必须跨段锁定：固定外形描述 + 参考图绑定；续写以上一段成片为视频 1，禁止换脸、换装、换房间、换英雄道具。
+5. 正脸镜头里手机只许看见背壳；要看屏幕必须切过肩/肩膀视角。禁止正脸与屏幕文字同框，禁止把界面画在手机背面。
+6. 与 [Seedance 2.5 官方提示词指南](https://docs.volcengine.com/docs/82379/2607689?lang=zh) 冲突时，以官方指南为准。
+
+MiniMax H3、H3 Max、海螺 AI、Hailuo、MiniMax Design 走 `minimax-h3-prompt`，不要套本模板。本轮与 Seedance / 即梦 / 火山方舟无关则忽略细则，不必展开模板。

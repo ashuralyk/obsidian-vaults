@@ -10,7 +10,7 @@ Follow `Meta/schema.md` and templates in `Meta/templates/`. Do not write into `c
 ## Shared steps
 
 1. Pick `type` and folder. Never drop untyped files at vault root.
-2. Copy the matching template, fill YAML (`updated` today, `#type/<type>`). Prose must read like a mentor: fluent, complete sentences, no telegram fragments, keyword dumps, or AI boilerplate; see `.cursor/rules/note-prose.mdc` and `Meta/schema.md`「正文文笔与整理口吻」。
+2. Copy the matching template, fill YAML (`updated` today, `#type/<type>`). Prose must read like a mentor: fluent, complete sentences, no telegram fragments, keyword dumps, or AI boilerplate; see `.cursor/rules/note-prose.mdc` and `Meta/schema.md`「正文文笔与整理口吻」。来源多为英文时，先理解原意，再按中文作为第一语言来写，不要做英译中。
 3. Put allowed `[[wikilink]]` in the 链接 section (and only allowed edges).
 4. Update the relevant `area` / `moc` member list when you created a lasting note.
 5. Search first (`obsidian-api` REST or MCP `search_simple`). If an existing concept shares the same mechanism, update that note: add the new source, write a `多源互证` section with the new angle, and tag `#corroboration/multi-source` when two or more sources agree. If the topic is related but the mechanism or lens differs, create a new concept and link it. Never skip落盘 because a “similar” note already exists; only skip empty same-title duplicates with no new angle. See `Meta/schema.md`「多源互证」。
@@ -30,8 +30,8 @@ Follow `Meta/schema.md` and templates in `Meta/templates/`. Do not write into `c
 ## PDF / book
 
 - Original file → `Sources/attachments/` (only if the user provided a file to store).
-- Companion `source` note in `Sources/` with authors / 摘录.
-- Understanding → `Concepts/`, linked from the source.
+- Companion `source` note in `Sources/` with authors / 摘录. 摘录可保留英文原文；理解与评述用中文写作，不是对译。
+- Understanding → `Concepts/`, linked from the source. 概念正文按中文作为第一语言组织，不要把英文句式搬进中文。
 
 ## Daily life
 
