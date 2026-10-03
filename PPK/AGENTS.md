@@ -39,7 +39,7 @@
 
 | 场景 | 读 | 写知识笔记 |
 | --- | --- | --- |
-| Obsidian 开着（Copilot 可能同时在跑） | 用 **Local REST API / MCP**（Cursor）或 **Obsidian CLI / 应用内工具**（Copilot），以运行中的索引为准 | **必须经 Obsidian**：Cursor 用 `PUT`/`PATCH` `/vault/...` 或 MCP `vault_write` / `vault_patch`；Copilot 用 CLI/`vault` 写入。禁止 Cursor 用编辑器直写 `.md` 去抢 Copilot 未保存缓冲区 |
+| Obsidian 开着（Copilot 可能同时在跑） | **Cursor 优先 REST**（`GET https://127.0.0.1:27124/` 探活，再 `/search` `/vault`）；REST 不通才用官方 CLI（会要宿主机权限）。MCP 连上时与 REST 同插件，可替代 CLI。Copilot 仍用应用内 CLI。以运行中的索引为准 | **必须经 Obsidian**：Cursor 用 `PUT`/`PATCH` `/vault/...` 或 MCP `vault_write` / `vault_patch`；Copilot 用 CLI/`vault` 写入。禁止 Cursor 用编辑器直写 `.md` 去抢 Copilot 未保存缓冲区 |
 | Obsidian 未开 | Cursor 可读文件；Copilot 不可用 | 仅 Cursor 可写文件；下次打开 Obsidian 后以磁盘为准 |
 
 探活：`GET https://127.0.0.1:27124/`（无需 key）。通了就表示 Obsidian 在跑，此时 **禁止对知识笔记做旁路文件系统写入**。

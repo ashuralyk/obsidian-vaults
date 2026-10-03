@@ -32,16 +32,20 @@ REST paths are vault-relative (`Maps/知识库地图.md`). If Cursor opened the 
 
 ## Workflow
 
-1. `rest.sh GET /` — no key. If this fails, Obsidian is closed or the plugin is off → fall back to files. Do not claim you used core search.
+**优先 REST，避免官方 CLI 每次要宿主机权限。**
+
+1. `rest.sh GET /` — no key. This is the probe. If it succeeds, stay on REST (or MCP on the same plugin if the Cursor `obsidian` server is connected). Do **not** call `obsidian vault="PPK"` while REST is up.
 2. If `authenticated` is false, vault routes need `OBSIDIAN_API_KEY`. If the key is missing, say so; do not read `data.json`.
-3. Prefer live API for discovery (or MCP tools if the `obsidian` MCP server is connected):
+3. REST discovery and I/O (MCP equivalents in parentheses when connected):
    - `POST /search/simple/?query=...&contextLength=120` → MCP `search_simple`
    - `POST /search/` JsonLogic → MCP `search_query`
    - `GET /vault/` / `GET /vault/{path}` → `vault_list` / `vault_read`
    - `GET /tags/` → `tag_list`
    - `POST /open/{path}` → `open_file`
-4. **Obsidian 开着时，知识笔记的创建/修改必须走 REST `PUT`/`PATCH` `/vault/{path}` 或 MCP `vault_write`/`vault_patch`/`vault_append`。** 不要用 Cursor 的文件写入工具直接改 `Inbox/`、`Daily/`、`Sources/`、`Concepts/`、`Maps/`、`Areas/`、`Projects/`、`Outputs/` 下的 `.md`（会和 Copilot / 未保存编辑器互相覆盖）。`.cursor/` 仍用文件系统。追加用 JSON `PATCH`（可带 `ifMatch`），避免整文件重写。
-5. Binary attachments: REST `/vault/` raw bytes, or MCP `vault_read_binary` / `vault_write_binary` (≤ 1 MiB). Do not round-trip binaries through `vault_read`.
+   - writes: `PUT`/`PATCH` `/vault/{path}` → `vault_write` / `vault_patch` / `vault_append`
+4. **Only if step 1 fails** (Obsidian closed, plugin off, or `127.0.0.1:27124` unreachable): official CLI `obsidian vault="PPK"` with host/`all` permissions. If CLI also fails, grep/read files and say you did not use live search. Skip `copilot/`, `.obsidian/`, `.cursor/`, `.claude/`, `.agents/`, `.opencode/`.
+5. **Obsidian 开着且 REST 通时，知识笔记的创建/修改必须走 REST `PUT`/`PATCH` `/vault/{path}` 或 MCP。** 不要用 Cursor 的文件写入工具直接改 `Inbox/`、`Daily/`、`Sources/`、`Concepts/`、`Maps/`、`Areas/`、`Projects/`、`Outputs/` 下的 `.md`（会和 Copilot / 未保存编辑器互相覆盖）。`.cursor/` 仍用文件系统。追加用 JSON `PATCH`（可带 `ifMatch`），避免整文件重写。Heading `PATCH` 若 404，改为 `GET` 全文、改字符串、再 `PUT`。
+6. Binary attachments: REST `/vault/` raw bytes, or MCP `vault_read_binary` / `vault_write_binary` (≤ 1 MiB). Do not round-trip binaries through `vault_read`.
 
 Endpoint and MCP tool tables: [reference.md](reference.md).
 

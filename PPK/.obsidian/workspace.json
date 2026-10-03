@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/A Complete Guide To Volume Price Analysis（Anna Coulling，2013）.md",
+                "file": "Concepts/人物要可同情并且会被逼着变.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Complete Guide To Volume Price Analysis（Anna Coulling，2013）"
+              "title": "人物要可同情并且会被逼着变"
             }
           }
         ]
@@ -179,9 +179,19 @@
               "icon": "copilot-agent",
               "title": "Copilot Agent"
             }
+          },
+          {
+            "id": "298abd04ea5e600b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,33 +212,33 @@
   },
   "active": "b41afdf4f5240471",
   "lastOpenFiles": [
-    "Concepts/趋势锯齿前进首次回调总会遇到对手盘.md",
-    "Concepts/动态趋势从拥堵突破后的枢轴长出.md",
-    "Concepts/突破必须被量确认.md",
-    "Concepts/买入高潮在底部卖出高潮在顶部.md",
-    "Concepts/试盘检验剩余供需.md",
-    "Concepts/量价解读是同一条源上的相对裁量.md",
-    "Concepts/价位成交量标出拥堵厚度.md",
-    "Concepts/停止量与到顶量是油轮刹车.md",
-    "Concepts/试盘量轻才说明旧仓已尽.md",
-    "Concepts/突破必须被量确认否则是诱骗.md",
-    "Concepts/量价必须相称否则是异常.md",
-    "Concepts/努力与结果必须相称.md",
-    "Sources/A Complete Guide To Volume Price Analysis（Anna Coulling，2013）.md",
+    "Concepts/冲突要在行动与反行动中逐级升级.md",
+    "Concepts/一句话梗概是故事开发的压力测试.md",
+    "Concepts/心理理论只能作为人物假设而不是诊断.md",
+    "Concepts/情节解决事情，结局解决人物身份.md",
+    "Concepts/外部目标让存在焦虑进入行动.md",
+    "Concepts/亲密关系通过逐步暴露脆弱建立.md",
+    "Concepts/反派可以承载主角不愿承认的自己.md",
+    "Concepts/人物用补偿策略掩盖最怕被证明的不足.md",
+    "Concepts/人物的能力与缺陷来自同一种生存策略.md",
+    "Concepts/防卫机制把内在冲突变成可见行为.md",
+    "Sources/编剧心理学（威廉·尹迪克）.md",
+    "Sources/救猫咪（布莱克·斯奈德）.md",
+    "Sources/对白（罗伯特·麦基，2016）.md",
+    "Concepts/开场和终场要互为变化证据.md",
+    "Concepts/失去一切要让旧解法失效.md",
+    "Concepts/中点要改变压力而不是平分篇幅.md",
+    "Concepts/主角必须亲自选择进入新世界.md",
+    "Concepts/主角要由最大冲突来选择.md",
+    "Concepts/类型规则是创新的参照面.md",
+    "Concepts/修改要按问题贯穿全稿.md",
+    "Concepts/节奏是把篇幅分给故事重点.md",
+    "Concepts/副线要改变主线的最终解法.md",
+    "Concepts/原型是人物在关系网中的可变功能.md",
+    "Concepts/主题保持不变，人物对主题的态度改变.md",
+    "Concepts/冲突双方既要绝对对立又要无法退出.md",
+    "Concepts/人物选择产生情节.md",
     "Sources/attachments/A Complete Guide To Volume Price Analysis（Anna Coulling）.epub",
-    "Projects/项目说明.md",
-    "Concepts/不懂生意时指数化更优.md",
-    "Outputs/briefings/九本金融书查漏补缺.md",
-    "Concepts/穿透盈利看穿持股结构.md",
-    "Concepts/极端共识时提高参与门槛.md",
-    "Concepts/用交易日志复制赢家行为.md",
-    "Concepts/不要事后怀疑赢家.md",
-    "Concepts/通胀侵蚀债券的名义安全.md",
-    "Concepts/热门新股在叙事顶点完成内部人退出.md",
-    "Concepts/六类股票决定持有预期与卖出逻辑.md",
-    "Sources/Trading Rules that Work（Jason Alan Jankovsky，2007）.md",
-    "Concepts/定期提取交易利润维持不执着.md",
-    "Concepts/不要把交易思考外包.md",
     "Sources/attachments/Trading Rules that Work（Jason Alan Jankovsky）.pdf",
     "Sources/attachments/Trading Habits（Steve Burns，Holly Burns）.epub",
     "Sources/attachments/Buy Signals Sell Signals（Steve Burns，Holly Burns）.epub",

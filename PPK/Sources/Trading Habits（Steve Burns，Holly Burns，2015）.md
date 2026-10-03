@@ -1,7 +1,7 @@
 ---
 type: source
 status: evergreen
-updated: 2026-09-15
+updated: 2026-09-21
 aliases:
   - Trading Habits
   - 39 de las mejores reglas para operar en bolsa
@@ -52,7 +52,7 @@ Brett Steenbarger 的句子被放在书的开篇：正确的交易行为，起�
 
 这是偏薄的零售交易电子书，开篇在推 New Trader 101，均线一章跳向作者另一本书。原则能站住；具体股价、指标阈值和「我用这一招赚了二十年」不能当未来保证。西班牙译本有排印与译名噪音，入库按机制理解，不按译句直搬。
 
-作者再次把机械规则写成零售交易者的默认终点。Douglas 把机械当成安装概率信念的阶段，之上还可以有直觉。金融帝国与 Burns 更接近。分歧留在明处。
+作者再次把机械规则写成零售交易者的默认终点。Douglas 把机械当成安装概率信念的阶段，之上还可以有直觉。金融帝国与 Burns 更接近。分歧分开写清。
 
 书里引用 Weissman、Raschke、Livermore、Soros、Seykota、Paul Tudor Jones 等人的规则。这些名字是习惯的出处，不是把他们的原书当成已读。
 

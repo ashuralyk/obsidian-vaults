@@ -7,13 +7,13 @@ description: Answers questions from this Obsidian vault with explicit note citat
 
 ## Steps
 
-1. Load `obsidian-api`. `GET /` first (no API key).
-2. If the Cursor MCP server `obsidian` is connected, use `search_simple` / `vault_read` (same plugin as REST).
-3. Else if REST works and `OBSIDIAN_API_KEY` is set:
+1. Load `obsidian-api`. `GET /` first (no API key). Prefer REST so the host CLI permission prompt is not required.
+2. If REST is up and `OBSIDIAN_API_KEY` is set (or the Cursor MCP server `obsidian` is connected — same plugin):
    - `POST /search/simple/` with the user's terms
    - Optionally JsonLogic on `POST /search/`
    - `GET /vault/{path}` for full notes
-4. If health check fails, or vault routes return 401 without a key: say so, then grep/read files. Skip `copilot/`, `.obsidian/`, `.cursor/`, `.claude/`, `.agents/`, `.opencode/`.
+3. If REST health fails: official CLI `obsidian vault="PPK"` (needs host/`all` permissions).
+4. If REST and CLI both fail, or vault routes return 401 without a key: say so, then grep/read files. Skip `copilot/`, `.obsidian/`, `.cursor/`, `.claude/`, `.agents/`, `.opencode/`.
 
 Start from `Maps/知识库地图.md` and area notes when the question is broad.
 
