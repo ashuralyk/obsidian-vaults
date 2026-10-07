@@ -7,7 +7,7 @@ alwaysApply: true
 
 只要本轮任务涉及 MiniMax H3、H3 Max、海螺 AI、Hailuo、MiniMax Design、全能参考、首尾帧，或用户点名要 H3 提示词：
 
-1. 先读并遵守 `minimax-h3-prompt` 技能（项目内 `.cursor/skills/minimax-h3-prompt/SKILL.md` 与同目录 `reference.md`；若个人目录已安装则也可用 `~/.cursor/skills/minimax-h3-prompt/`）。
+1. 先读并遵守 `minimax-h3-prompt` 技能（`.agents/skills/minimax-h3-prompt/SKILL.md` 与同目录 `reference.md`）。
 2. 用产品公式写：规格（时长 + 画幅）→ 素材绑定（图N/视频N/音频N）→ 主体、场景、运动、声音 → 镜头怎么落。交付可直接粘贴的中文整段提示词。
 3. 单条成片 4–15 秒（H3 Max 为 5–15 秒），只接受整数秒。不要写成 Seedance 的 30 秒一段再向后延长。
 4. 先定三类模式之一：文生、首/尾帧、全能参考。禁止把首帧角色和外形参考混用。

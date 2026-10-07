@@ -2,7 +2,7 @@
 
 本文件是 **Cursor** 与 **Obsidian Copilot** 共用的同一份契约。两边都在改这一座 vault：知识内容、目录、frontmatter 和 `[[wikilink]]` 必须保持一致。原则上，人不手改笔记。
 
-细则见 [[笔记范式]]（`Meta/schema.md`）。Cursor 的流程在 `.cursor/skills/`；Copilot 的流程在 `copilot/skills/`（**互不改对方的技能目录**）。
+细则见 [[笔记范式]]（`Meta/schema.md`）。流程技能只在 `.agents/skills/` 留一份；Copilot 的流程在 `copilot/skills/`（**互不改对方的技能目录**）。
 
 ## 先读
 
@@ -22,8 +22,8 @@
 
 - `.obsidian/community-plugins.json`、`.obsidian/core-plugins.json`、`.obsidian/plugins/`
 - vault 根 `copilot/`（Copilot 工作区）
-- `.claude/`、`.agents/`、`.opencode/`（Copilot 同步的技能副本）
-- `.cursor/`（Cursor 规则与技能；Copilot 不要改）
+- `.claude/`、`.opencode/`（Copilot 同步的技能副本）
+- `.cursor/`（Cursor 规则、钩子与 MCP；Copilot 不要改）
 
 不要从 REST 插件 `data.json` 读取 API key。Cursor 只用环境变量 `OBSIDIAN_API_KEY`。
 
@@ -54,7 +54,8 @@
 ### 分工（避免双写技能）
 
 - Cursor 不维护、不复制、不「同步」`copilot/skills/`。
-- Copilot 不维护 `.cursor/skills/`，但 **必须遵守本文件与 `Meta/schema.md`**（类型、目录、链接纪律）。
+- 流程技能只放 `.agents/skills/`，不要再复制到 `.cursor/skills/`。
+- Copilot 不维护 `.agents/skills/`，但 **必须遵守本文件与 `Meta/schema.md`**（类型、目录、链接纪律）。
 - 知识只进 `Inbox/`、`Daily/`、`Sources/`、`Concepts/`、`Maps/`、`Areas/`、`Projects/`、`Outputs/`，模板用 `Meta/templates/`。不要在 vault 根或 `copilot/` 下落知识笔记。
 
 ## 工作流（Cursor）

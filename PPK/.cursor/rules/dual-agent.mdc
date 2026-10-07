@@ -11,4 +11,4 @@ alwaysApply: true
 
 同一文件不要并行全文覆盖。先读再写；`PATCH` 尽量带 `ifMatch`。新建前先搜索，避免重复概念。
 
-不要改 `copilot/`、`.claude/`、`.agents/`、`.opencode/`。Copilot 也不应改 `.cursor/`。
+不要改 `copilot/`、`.claude/`、`.opencode/`。技能只在 `.agents/skills/`。Copilot 也不应改 `.agents/skills/` 与 `.cursor/`。

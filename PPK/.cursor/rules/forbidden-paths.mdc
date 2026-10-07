@@ -11,8 +11,8 @@ alwaysApply: true
 - `.obsidian/core-plugins.json`
 - `.obsidian/plugins/` 整棵（含 `obsidian-git`、`copilot`、`obsidian-local-rest-api` 及任何 `data.json`）
 - vault 根 `copilot/`
-- `.claude/`、`.agents/`、`.opencode/`
+- `.claude/`、`.opencode/`
 
 不要读取 REST 插件 `data.json` 里的密钥。使用环境变量 `OBSIDIAN_API_KEY`。
 
-Cursor 技能只写在 `.cursor/skills/`，不要写进 `copilot/skills/`。Copilot 不要改 `.cursor/`。
+技能只写在 `.agents/skills/`，不要复制到 `.cursor/skills/`，也不要写进 `copilot/skills/`。Copilot 不要改 `.agents/skills/` 与 `.cursor/`。

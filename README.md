@@ -1,6 +1,6 @@
 # Obsidian 知识库
 
-Vault 在 [`PPK/`](PPK/)。用 Cursor **打开 `PPK` 文件夹**，这样 `AGENTS.md`、`.cursor/skills` 与 `.cursor/mcp.json` 才会作为项目约定生效。
+Vault 在 [`PPK/`](PPK/)。用 Cursor **打开 `PPK` 文件夹**，这样 `AGENTS.md`、`.agents/skills` 与 `.cursor/mcp.json` 才会作为项目约定生效。
 
 ## 已具备
 
