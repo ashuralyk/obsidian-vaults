@@ -1,32 +1,101 @@
 {
   "version": 1,
   "transcripts": {
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/c0657256-7055-4dd0-97d4-0e4922faf059.jsonl": {
-      "mtimeMs": 1789207791767.3657
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/102cf0dd-3fd2-4368-9db6-cc2dc945e084/102cf0dd-3fd2-4368-9db6-cc2dc945e084.jsonl": {
+      "mtimeMs": 1789367004310.66
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/subagents/c8d3952b-00c1-42d6-9a68-8ae139f2695f.jsonl": {
-      "mtimeMs": 1789194478157.4429
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/1c91da82-792f-478b-8472-310cf6154bb7/1c91da82-792f-478b-8472-310cf6154bb7.jsonl": {
+      "mtimeMs": 1789458074585.3918
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/subagents/9a8aee45-c0f2-4338-a670-e86b4365fa4b.jsonl": {
-      "mtimeMs": 1789206570277.3015
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/1c91da82-792f-478b-8472-310cf6154bb7/subagents/2fb8c47a-6780-4da0-9f4a-a5ad3195c91e.jsonl": {
+      "mtimeMs": 1789457387505.2847
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5cdb9c44-4935-4b4c-a424-859cb8031f93/5cdb9c44-4935-4b4c-a424-859cb8031f93.jsonl": {
-      "mtimeMs": 1791125239767.8643
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/21aa0905-77b4-43c5-8dba-3a92df461413/21aa0905-77b4-43c5-8dba-3a92df461413.jsonl": {
+      "mtimeMs": 1791036127746.3726
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/cdcf0563-8a9c-48ad-b39b-a8f6116761e7.jsonl": {
-      "mtimeMs": 1791162742132.6733
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2222ab31-786d-4efa-9c5b-391dc6d12040/2222ab31-786d-4efa-9c5b-391dc6d12040.jsonl": {
+      "mtimeMs": 1791162104016.0684
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/d875f125-15c5-41a2-ab6f-504b1d17dcce.jsonl": {
-      "mtimeMs": 1791162686212.0251
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/25101430-bca4-406e-a9e6-e424211aa7cc/25101430-bca4-406e-a9e6-e424211aa7cc.jsonl": {
+      "mtimeMs": 1791189790343.8926
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/aad2d358-e4cf-46ca-8071-e8b8c7fa032d.jsonl": {
-      "mtimeMs": 1791157804920.635
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/276ae419-e568-48f6-91dc-40dd088c35b2/276ae419-e568-48f6-91dc-40dd088c35b2.jsonl": {
+      "mtimeMs": 1789179292422.155
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/db456a4d-1963-4a23-9955-2734acd3a561.jsonl": {
-      "mtimeMs": 1791129060407.381
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/276ae419-e568-48f6-91dc-40dd088c35b2/subagents/4c2f497e-0c06-4f8b-bfbb-c0b270e5812f.jsonl": {
+      "mtimeMs": 1789147153973.193
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/c7fed77c-95d9-4017-9cdc-fe17a5cd38b6.jsonl": {
-      "mtimeMs": 1791162448770.5764
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2a26a571-4d67-436a-b6fa-6a8fa8cbade0/2a26a571-4d67-436a-b6fa-6a8fa8cbade0.jsonl": {
+      "mtimeMs": 1791394066386.5183
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/2c92a3fc-850e-4415-bc6d-a9befc5df75b.jsonl": {
+      "mtimeMs": 1791384152393.0933
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/177f0ee4-1846-4594-9ef4-099d0339391b.jsonl": {
+      "mtimeMs": 1791383863949.4148
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/1e550461-d3bf-4df1-be85-b6b9c2cd6537.jsonl": {
+      "mtimeMs": 1791383967529.5947
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/601a9be2-fa08-4c66-aa0e-d305dd9d1f09.jsonl": {
+      "mtimeMs": 1791383923218.611
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/7d2f7096-0789-4958-9f43-e784e51af62a.jsonl": {
+      "mtimeMs": 1791384055635.4333
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/8737d327-125a-40f8-b588-fbe619000921.jsonl": {
+      "mtimeMs": 1791379966147.4678
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/8c67e937-5986-4808-90a7-9a8bb1b87888.jsonl": {
+      "mtimeMs": 1791383708866.1816
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/a6908d05-51b6-4ad9-b63b-d22d6ca8f766.jsonl": {
+      "mtimeMs": 1791383852431.1401
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/d29fe120-e56d-4b8e-8865-86c6373205d2.jsonl": {
+      "mtimeMs": 1791383792358.8633
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/d39b5498-58c5-402a-9d6e-98dbd4da9d10.jsonl": {
+      "mtimeMs": 1791383982785.5918
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/d61d5849-fd0e-4ef2-a53f-2f049d3bdd83.jsonl": {
+      "mtimeMs": 1791383902024.607
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/33e2c7a3-8904-4d62-bfc6-5eaec355e333.jsonl": {
+      "mtimeMs": 1789223228186.2688
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/4c237c7e-be57-425e-a76a-cc4ea2904c97.jsonl": {
+      "mtimeMs": 1789223239965.2764
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/5250efb0-1e41-43bb-b7c7-9e8d27fafeb1.jsonl": {
+      "mtimeMs": 1789214379992.6543
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/8abcb724-599c-42b1-981f-11e344316c37.jsonl": {
+      "mtimeMs": 1789214334514.0532
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/f4a860d8-7ab8-4ac9-a93e-5ed74c940c6a.jsonl": {
+      "mtimeMs": 1789214333803.1572
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/341e802f-a719-40cc-a17e-fa79719e5431.jsonl": {
+      "mtimeMs": 1789466799001.8906
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/12506a54-1eb1-4067-bd11-a421002b7b98.jsonl": {
+      "mtimeMs": 1789466265390.6084
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/16080fd6-5405-4489-b880-2a5043377041.jsonl": {
+      "mtimeMs": 1789466285905.2217
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/97288470-1470-48a9-969c-78a28d328b81.jsonl": {
+      "mtimeMs": 1789466253399.673
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/973489c0-891c-4ff5-867f-2270bd036611.jsonl": {
+      "mtimeMs": 1789466285917.7312
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/c2c5ddd7-29c1-4a37-9dd2-492d2721a053.jsonl": {
+      "mtimeMs": 1789466285929.3003
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/e8267e29-9280-4222-863c-7088ab7af063.jsonl": {
+      "mtimeMs": 1789398559186.0493
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/3fe41e18-369e-41de-af2a-2c005bc78742/3fe41e18-369e-41de-af2a-2c005bc78742.jsonl": {
       "mtimeMs": 1791192260534.9827
@@ -35,196 +104,52 @@
       "mtimeMs": 1791190734692.5618
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/3fe41e18-369e-41de-af2a-2c005bc78742/subagents/9fa35264-5654-4ae5-bec2-bb2bae71c7de.jsonl": {
-      "mtimeMs": 1791190799062.0383
+      "mtimeMs": 1791190799062.0386
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/3fe41e18-369e-41de-af2a-2c005bc78742/subagents/e40a2f00-d6e5-41b7-acd1-21972725cc67.jsonl": {
       "mtimeMs": 1791190748921.9666
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/66c48e65-8e3f-4a6f-8a43-487cea7df46b.jsonl": {
-      "mtimeMs": 1791188842153.4436
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/48df6baf-b13d-48cb-a0fc-1ca7f94a33e8/48df6baf-b13d-48cb-a0fc-1ca7f94a33e8.jsonl": {
+      "mtimeMs": 1791131092372.2014
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/dbd49ec7-041d-4c50-88ef-49e6320d2904.jsonl": {
-      "mtimeMs": 1791162969498.8777
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/55591b9c-dbc7-446f-9f2a-08ee66aa5605/55591b9c-dbc7-446f-9f2a-08ee66aa5605.jsonl": {
+      "mtimeMs": 1791126437979.1116
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fbc3aa29-b08e-4a67-b384-a8fe453ede14.jsonl": {
-      "mtimeMs": 1791162247757.6472
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/57d1fac0-d645-4386-a561-98e64d418381.jsonl": {
+      "mtimeMs": 1791396549624.344
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/e8469e63-bf80-4cb1-806d-3f59a27df8be.jsonl": {
-      "mtimeMs": 1791161953631.3184
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/3769e874-7c57-42e6-a302-7c81bbc0f72e.jsonl": {
+      "mtimeMs": 1791394420472.1365
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/79c9ebaa-9331-4ef4-96eb-acae830ba3f6.jsonl": {
-      "mtimeMs": 1791162236151.121
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/685a9a69-34d2-4be3-ac3e-0d92beec2930.jsonl": {
+      "mtimeMs": 1791394286124.263
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/e3f5e3d0-c4e8-4856-8728-647eff98eb81.jsonl": {
-      "mtimeMs": 1791161954297.2734
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/6863cd22-05c6-47d4-b94d-4f43b7aa2cd6.jsonl": {
+      "mtimeMs": 1791394707998.3914
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7c9f3e6a-7369-49dd-b9e4-580835da705d.jsonl": {
-      "mtimeMs": 1791160034707.9563
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/68bf304f-a1b7-4979-8fbc-33ab4be45a50.jsonl": {
+      "mtimeMs": 1791394381016.7292
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/352e9a88-3233-49ae-8cc2-669a05a7febf.jsonl": {
-      "mtimeMs": 1791178994169.8372
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/75e68cf5-fb89-415e-9c72-ec4830c52f4c.jsonl": {
+      "mtimeMs": 1791394371624.6519
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b205b67d-5939-4157-8ecb-9ad4a41531a1.jsonl": {
-      "mtimeMs": 1791135000149.4338
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/99ead4a9-d031-4979-8987-011737608111.jsonl": {
+      "mtimeMs": 1791394559780.7415
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/0e3fe6a0-22fb-40bc-a03e-1dbfd469b08d.jsonl": {
-      "mtimeMs": 1791136229879.8328
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/57d1fac0-d645-4386-a561-98e64d418381/subagents/afafbd1a-a892-41ed-9963-087517e52a3b.jsonl": {
+      "mtimeMs": 1791394379589.5498
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/743b8777-cbbb-4bbf-af49-681ffda0b0b4.jsonl": {
-      "mtimeMs": 1791135719927.9348
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/58665dcb-c167-46c5-8126-dc5b95c7c47a/58665dcb-c167-46c5-8126-dc5b95c7c47a.jsonl": {
+      "mtimeMs": 1789146530747.4812
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2376274a-b5d3-4354-bb6d-47b6e4c96e6e.jsonl": {
-      "mtimeMs": 1791135839990.1907
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5a39bdd1-edd4-45f6-983a-0f9829e066bb/5a39bdd1-edd4-45f6-983a-0f9829e066bb.jsonl": {
+      "mtimeMs": 1789375154494.1418
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/682293c5-0f39-433d-9b4e-e4cc8f5e3c29.jsonl": {
-      "mtimeMs": 1791158669414.854
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5cdb9c44-4935-4b4c-a424-859cb8031f93/5cdb9c44-4935-4b4c-a424-859cb8031f93.jsonl": {
+      "mtimeMs": 1791125239767.864
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fdaa18b3-52c4-4819-a323-c2cf903ac604.jsonl": {
-      "mtimeMs": 1791179627159.4683
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/af91f365-6aa4-4db4-af34-4d0b7804d0fc.jsonl": {
-      "mtimeMs": 1791158559382.034
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/afd5ffdc-b8d4-4feb-8f1b-f1afc7fcf9b1.jsonl": {
-      "mtimeMs": 1791159951989.9646
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/0b5a1968-562a-4cab-a72b-6634c88f005d.jsonl": {
-      "mtimeMs": 1791179065506.247
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/69664313-c683-40b8-a14f-e201dccb9388.jsonl": {
-      "mtimeMs": 1791136091480.7788
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3e82fb62-a8d1-4551-8fdf-ecf83cd3e040.jsonl": {
-      "mtimeMs": 1791158314757.6235
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/54946a30-367d-4708-b815-a2c0c28d3fcf.jsonl": {
-      "mtimeMs": 1791136547477.4834
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/f5f4c258-5736-49f1-a735-5a05c8badfa2.jsonl": {
-      "mtimeMs": 1791162014059.7666
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b25d1144-f941-4f47-8203-7c90b8f21d1e.jsonl": {
-      "mtimeMs": 1791162044325.494
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3c81b77d-d1b1-4015-a231-c0e8bbced759.jsonl": {
-      "mtimeMs": 1791162928737.7603
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a461107d-8610-4aeb-ba09-6f7b124a7ab9.jsonl": {
-      "mtimeMs": 1791160027179.3672
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/ca66caca-7b7c-4ec7-996b-9953d7b88d46.jsonl": {
-      "mtimeMs": 1791158604145.349
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7e2fabdc-2152-4876-936f-4a7bd76877f7.jsonl": {
-      "mtimeMs": 1791160242660.0847
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/143849ec-2ebf-4276-8985-930811d174cd.jsonl": {
-      "mtimeMs": 1791179113509.6936
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/58049b45-b60e-465d-a489-83e3e67f1097.jsonl": {
-      "mtimeMs": 1791158643721.7131
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/db4d4c1e-b5ac-4018-acc4-b99a3a9639b5.jsonl": {
-      "mtimeMs": 1791136506857.3477
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/bc9060a4-e252-45ed-8f1a-3c67e050ee15.jsonl": {
-      "mtimeMs": 1791163229982.8513
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3bf2b887-1184-49fc-80f7-aea539d95e64.jsonl": {
-      "mtimeMs": 1791158355063.8381
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/76e27290-b9c2-4cdc-aeeb-571d6ada972f.jsonl": {
-      "mtimeMs": 1791162603395.2117
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/c22631d2-076a-4344-bafb-cceff9bc4763.jsonl": {
-      "mtimeMs": 1791159963707.0227
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/89343b91-2612-4e52-8578-068e4ba31247.jsonl": {
-      "mtimeMs": 1791162496493.3547
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/ff647759-164c-4ca1-9556-b2d7045715af.jsonl": {
-      "mtimeMs": 1791158583286.7942
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/8db865b0-d29e-4908-9490-f35d47d75e1f.jsonl": {
-      "mtimeMs": 1791160297714.1018
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/414b111a-180b-4089-9015-d3f304aefb11.jsonl": {
-      "mtimeMs": 1791162606233.9553
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/4984c6cf-461a-4b68-bbca-b79c8cf3ba2f.jsonl": {
-      "mtimeMs": 1791163218047.417
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a23e4dc8-0d99-463e-b0dd-23e157a14a4c.jsonl": {
-      "mtimeMs": 1791162984964.7935
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/123c0ac8-c83c-4a6c-ac21-1e74b53bec62.jsonl": {
-      "mtimeMs": 1791163274176.8186
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b566c24f-5064-4b2c-bd44-01f22677b99c.jsonl": {
-      "mtimeMs": 1791186709384.9387
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/5395aa89-99ae-441d-9367-fb090535a4a6.jsonl": {
-      "mtimeMs": 1791157974761.1304
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fa458650-6941-4703-804d-42e1a7c09aea.jsonl": {
-      "mtimeMs": 1791134891704.2788
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/47d9f201-8ea1-4fd8-960a-625be522dfc4.jsonl": {
-      "mtimeMs": 1791158670541.095
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/d3bf94b0-55a7-4a05-a202-b7ae4206304e.jsonl": {
-      "mtimeMs": 1791163313665.7544
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2368d336-ecb7-4d7b-88b1-647da653908f.jsonl": {
-      "mtimeMs": 1791135443359.7493
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/4c9cd3ab-0065-402b-976e-d842fb0da620.jsonl": {
-      "mtimeMs": 1791162421450.2568
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/d3d2c287-70da-419c-8821-a0a6edfcace5.jsonl": {
-      "mtimeMs": 1791160283871.2207
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2b67f8de-bf2a-4608-9f46-8e290b5502f4.jsonl": {
-      "mtimeMs": 1791179016133.4324
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7699afd2-fd04-471d-9609-4127fcd183dd.jsonl": {
-      "mtimeMs": 1791135312998.6426
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a35f4a8c-4f43-4e80-9829-c099b1f9a433.jsonl": {
-      "mtimeMs": 1791157927972.1785
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/482a6c5b-4e2d-4b7a-b275-e74fa5b08332.jsonl": {
-      "mtimeMs": 1791162900253.2163
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2d27633d-e7f4-4f40-96b1-6f151f8c8c2a.jsonl": {
-      "mtimeMs": 1791160248568.9368
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/83f71d52-d63c-42eb-be6b-2aa442874955/83f71d52-d63c-42eb-be6b-2aa442874955.jsonl": {
-      "mtimeMs": 1789213594917.1287
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/33e2c7a3-8904-4d62-bfc6-5eaec355e333.jsonl": {
-      "mtimeMs": 1789223228186.2688
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/5250efb0-1e41-43bb-b7c7-9e8d27fafeb1.jsonl": {
-      "mtimeMs": 1789214379992.654
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/f4a860d8-7ab8-4ac9-a93e-5ed74c940c6a.jsonl": {
-      "mtimeMs": 1789214333803.1572
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/4c237c7e-be57-425e-a76a-cc4ea2904c97.jsonl": {
-      "mtimeMs": 1789223239965.2764
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/33e2c7a3-8904-4d62-bfc6-5eaec355e333/subagents/8abcb724-599c-42b1-981f-11e344316c37.jsonl": {
-      "mtimeMs": 1789214334514.0532
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/21aa0905-77b4-43c5-8dba-3a92df461413/21aa0905-77b4-43c5-8dba-3a92df461413.jsonl": {
-      "mtimeMs": 1791036127746.3726
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/ed67f5c8-343b-45ed-bfb0-79b6e6685345/ed67f5c8-343b-45ed-bfb0-79b6e6685345.jsonl": {
-      "mtimeMs": 1789490864138.1301
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2222ab31-786d-4efa-9c5b-391dc6d12040/2222ab31-786d-4efa-9c5b-391dc6d12040.jsonl": {
-      "mtimeMs": 1791162104016.068
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5d78fe1e-5591-4fb4-8705-4c664675ca79/5d78fe1e-5591-4fb4-8705-4c664675ca79.jsonl": {
+      "mtimeMs": 1791027043609.2031
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5e571df9-1a8d-48b8-9cd7-d7e6c69603f8/5e571df9-1a8d-48b8-9cd7-d7e6c69603f8.jsonl": {
       "mtimeMs": 1791032003184.611
@@ -232,26 +157,179 @@
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5e571df9-1a8d-48b8-9cd7-d7e6c69603f8/subagents/ee7a3b6c-8c34-44f1-885b-737510074b4d.jsonl": {
       "mtimeMs": 1791031944168.2534
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/95d887b0-bc5c-4547-8231-b45a6643bdce/95d887b0-bc5c-4547-8231-b45a6643bdce.jsonl": {
-      "mtimeMs": 1791025514791.7014
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/95d887b0-bc5c-4547-8231-b45a6643bdce/subagents/ca87804b-568f-42b7-980d-da381e3cfc34.jsonl": {
-      "mtimeMs": 1791021430297.3064
-    },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5fc0482f-8f26-472a-9ab9-cff32d767253/5fc0482f-8f26-472a-9ab9-cff32d767253.jsonl": {
       "mtimeMs": 1791214340956.421
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/7a9f8224-9dcc-49b8-9dd3-92566f56af80/7a9f8224-9dcc-49b8-9dd3-92566f56af80.jsonl": {
-      "mtimeMs": 1789212525986.6768
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/66c48e65-8e3f-4a6f-8a43-487cea7df46b.jsonl": {
+      "mtimeMs": 1791188842153.4436
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/5902b822-b1d3-4720-b6df-10fc320539bd.jsonl": {
-      "mtimeMs": 1791194170683.5688
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/0b5a1968-562a-4cab-a72b-6634c88f005d.jsonl": {
+      "mtimeMs": 1791179065506.247
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/0e3fe6a0-22fb-40bc-a03e-1dbfd469b08d.jsonl": {
+      "mtimeMs": 1791136229879.8328
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/123c0ac8-c83c-4a6c-ac21-1e74b53bec62.jsonl": {
+      "mtimeMs": 1791163274176.8186
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/143849ec-2ebf-4276-8985-930811d174cd.jsonl": {
+      "mtimeMs": 1791179113509.6936
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2368d336-ecb7-4d7b-88b1-647da653908f.jsonl": {
+      "mtimeMs": 1791135443359.7495
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2376274a-b5d3-4354-bb6d-47b6e4c96e6e.jsonl": {
+      "mtimeMs": 1791135839990.1907
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2b67f8de-bf2a-4608-9f46-8e290b5502f4.jsonl": {
+      "mtimeMs": 1791179016133.4324
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/2d27633d-e7f4-4f40-96b1-6f151f8c8c2a.jsonl": {
+      "mtimeMs": 1791160248568.937
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/352e9a88-3233-49ae-8cc2-669a05a7febf.jsonl": {
+      "mtimeMs": 1791178994169.8374
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3bf2b887-1184-49fc-80f7-aea539d95e64.jsonl": {
+      "mtimeMs": 1791158355063.8381
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3c81b77d-d1b1-4015-a231-c0e8bbced759.jsonl": {
+      "mtimeMs": 1791162928737.7603
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/3e82fb62-a8d1-4551-8fdf-ecf83cd3e040.jsonl": {
+      "mtimeMs": 1791158314757.6233
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/414b111a-180b-4089-9015-d3f304aefb11.jsonl": {
+      "mtimeMs": 1791162606233.9553
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/47d9f201-8ea1-4fd8-960a-625be522dfc4.jsonl": {
+      "mtimeMs": 1791158670541.0952
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/482a6c5b-4e2d-4b7a-b275-e74fa5b08332.jsonl": {
+      "mtimeMs": 1791162900253.2163
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/4984c6cf-461a-4b68-bbca-b79c8cf3ba2f.jsonl": {
+      "mtimeMs": 1791163218047.417
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/4c9cd3ab-0065-402b-976e-d842fb0da620.jsonl": {
+      "mtimeMs": 1791162421450.2568
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/5395aa89-99ae-441d-9367-fb090535a4a6.jsonl": {
+      "mtimeMs": 1791157974761.1304
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/54946a30-367d-4708-b815-a2c0c28d3fcf.jsonl": {
+      "mtimeMs": 1791136547477.4836
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/58049b45-b60e-465d-a489-83e3e67f1097.jsonl": {
+      "mtimeMs": 1791158643721.713
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/682293c5-0f39-433d-9b4e-e4cc8f5e3c29.jsonl": {
+      "mtimeMs": 1791158669414.854
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/69664313-c683-40b8-a14f-e201dccb9388.jsonl": {
+      "mtimeMs": 1791136091480.7786
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/743b8777-cbbb-4bbf-af49-681ffda0b0b4.jsonl": {
+      "mtimeMs": 1791135719927.935
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7699afd2-fd04-471d-9609-4127fcd183dd.jsonl": {
+      "mtimeMs": 1791135312998.6426
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/76e27290-b9c2-4cdc-aeeb-571d6ada972f.jsonl": {
+      "mtimeMs": 1791162603395.212
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/79c9ebaa-9331-4ef4-96eb-acae830ba3f6.jsonl": {
+      "mtimeMs": 1791162236151.121
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7c9f3e6a-7369-49dd-b9e4-580835da705d.jsonl": {
+      "mtimeMs": 1791160034707.9563
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/7e2fabdc-2152-4876-936f-4a7bd76877f7.jsonl": {
+      "mtimeMs": 1791160242660.0847
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/89343b91-2612-4e52-8578-068e4ba31247.jsonl": {
+      "mtimeMs": 1791162496493.3547
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/8db865b0-d29e-4908-9490-f35d47d75e1f.jsonl": {
+      "mtimeMs": 1791160297714.1018
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a23e4dc8-0d99-463e-b0dd-23e157a14a4c.jsonl": {
+      "mtimeMs": 1791162984964.7935
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a35f4a8c-4f43-4e80-9829-c099b1f9a433.jsonl": {
+      "mtimeMs": 1791157927972.1785
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/a461107d-8610-4aeb-ba09-6f7b124a7ab9.jsonl": {
+      "mtimeMs": 1791160027179.3672
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/af91f365-6aa4-4db4-af34-4d0b7804d0fc.jsonl": {
+      "mtimeMs": 1791158559382.0337
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/afd5ffdc-b8d4-4feb-8f1b-f1afc7fcf9b1.jsonl": {
+      "mtimeMs": 1791159951989.9646
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b205b67d-5939-4157-8ecb-9ad4a41531a1.jsonl": {
+      "mtimeMs": 1791135000149.4338
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b25d1144-f941-4f47-8203-7c90b8f21d1e.jsonl": {
+      "mtimeMs": 1791162044325.494
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/b566c24f-5064-4b2c-bd44-01f22677b99c.jsonl": {
+      "mtimeMs": 1791186709384.9387
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/bc9060a4-e252-45ed-8f1a-3c67e050ee15.jsonl": {
+      "mtimeMs": 1791163229982.8513
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/c22631d2-076a-4344-bafb-cceff9bc4763.jsonl": {
+      "mtimeMs": 1791159963707.0227
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/ca66caca-7b7c-4ec7-996b-9953d7b88d46.jsonl": {
+      "mtimeMs": 1791158604145.349
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/d3bf94b0-55a7-4a05-a202-b7ae4206304e.jsonl": {
+      "mtimeMs": 1791163313665.7544
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/d3d2c287-70da-419c-8821-a0a6edfcace5.jsonl": {
+      "mtimeMs": 1791160283871.2207
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/db4d4c1e-b5ac-4018-acc4-b99a3a9639b5.jsonl": {
+      "mtimeMs": 1791136506857.3477
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/dbd49ec7-041d-4c50-88ef-49e6320d2904.jsonl": {
+      "mtimeMs": 1791162969498.8777
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/e3f5e3d0-c4e8-4856-8728-647eff98eb81.jsonl": {
+      "mtimeMs": 1791161954297.2732
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/e8469e63-bf80-4cb1-806d-3f59a27df8be.jsonl": {
+      "mtimeMs": 1791161953631.3184
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/f5f4c258-5736-49f1-a735-5a05c8badfa2.jsonl": {
+      "mtimeMs": 1791162014059.7666
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fa458650-6941-4703-804d-42e1a7c09aea.jsonl": {
+      "mtimeMs": 1791134891704.2788
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fbc3aa29-b08e-4a67-b384-a8fe453ede14.jsonl": {
+      "mtimeMs": 1791162247757.6475
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/fdaa18b3-52c4-4819-a323-c2cf903ac604.jsonl": {
+      "mtimeMs": 1791179627159.4683
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/66c48e65-8e3f-4a6f-8a43-487cea7df46b/subagents/ff647759-164c-4ca1-9556-b2d7045715af.jsonl": {
+      "mtimeMs": 1791158583286.7942
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/0f5a9d96-0cf0-42f9-8c25-a37a9dad4d4a.jsonl": {
+      "mtimeMs": 1791194170673.8835
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/425f4b12-a325-48c7-851b-5c71166b58f3.jsonl": {
+      "mtimeMs": 1791193913758.7131
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/4a41fa09-d52f-4dc7-816e-97b3a8d59028.jsonl": {
       "mtimeMs": 1791193887422.5503
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/0f5a9d96-0cf0-42f9-8c25-a37a9dad4d4a.jsonl": {
-      "mtimeMs": 1791194170673.8838
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/5902b822-b1d3-4720-b6df-10fc320539bd.jsonl": {
+      "mtimeMs": 1791194170683.569
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/90380764-5ca6-4273-bae9-e0ad7474786b.jsonl": {
       "mtimeMs": 1791194051128.336
@@ -259,164 +337,11 @@
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/baeb055e-7b08-4a3a-97d5-c73525b5ff60.jsonl": {
       "mtimeMs": 1791194170683.5764
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6c8d2672-9967-4d6f-a281-da1ca32029bd/subagents/425f4b12-a325-48c7-851b-5c71166b58f3.jsonl": {
-      "mtimeMs": 1791193913758.713
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/d2a6aed6-8778-4f48-8cdd-024f67678d12.jsonl": {
-      "mtimeMs": 1791345358045.904
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/41c245c8-5092-483d-b822-0514fdf6af49.jsonl": {
-      "mtimeMs": 1791218966472.4775
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/ca554628-6178-48a8-abcb-f6ae11ee22c0.jsonl": {
-      "mtimeMs": 1791211756210.6462
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/ef41ec9c-4b4b-46f7-a04d-0d6c4891eb09.jsonl": {
-      "mtimeMs": 1791294663598.5474
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/5c305fed-95ed-4238-854f-151e322f6b6f.jsonl": {
-      "mtimeMs": 1791331682957.229
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/276ae419-e568-48f6-91dc-40dd088c35b2/276ae419-e568-48f6-91dc-40dd088c35b2.jsonl": {
-      "mtimeMs": 1789179292422.1548
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/276ae419-e568-48f6-91dc-40dd088c35b2/subagents/4c2f497e-0c06-4f8b-bfbb-c0b270e5812f.jsonl": {
-      "mtimeMs": 1789147153973.193
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c26198a3-13ab-4b18-bb12-e34519740762/c26198a3-13ab-4b18-bb12-e34519740762.jsonl": {
-      "mtimeMs": 1791357960819.491
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c26198a3-13ab-4b18-bb12-e34519740762/subagents/94698e0d-7ed7-441b-8b9c-db0cf62848b3.jsonl": {
-      "mtimeMs": 1791357955481.492
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5a39bdd1-edd4-45f6-983a-0f9829e066bb/5a39bdd1-edd4-45f6-983a-0f9829e066bb.jsonl": {
-      "mtimeMs": 1789375154494.1418
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/ad1ac24b-3268-499b-bda1-f2dfc160848b/ad1ac24b-3268-499b-bda1-f2dfc160848b.jsonl": {
-      "mtimeMs": 1791021620339.3318
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/1c91da82-792f-478b-8472-310cf6154bb7/1c91da82-792f-478b-8472-310cf6154bb7.jsonl": {
-      "mtimeMs": 1789458074585.392
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/1c91da82-792f-478b-8472-310cf6154bb7/subagents/2fb8c47a-6780-4da0-9f4a-a5ad3195c91e.jsonl": {
-      "mtimeMs": 1789457387505.2847
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/f0745032-0514-4145-a88f-0492457d117e.jsonl": {
-      "mtimeMs": 1789462096310.5166
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/b05d118b-596a-49b0-a2cd-70804bd7ce32.jsonl": {
-      "mtimeMs": 1789460651083.9436
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/990a1509-c339-433f-9c20-0f7e80afd813.jsonl": {
-      "mtimeMs": 1789460577966.712
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/5fd8b793-9485-4743-8891-6926f12a6ff1.jsonl": {
-      "mtimeMs": 1789460608965.0266
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e122d938-9b2b-440b-9ae4-1d2b75e354da/e122d938-9b2b-440b-9ae4-1d2b75e354da.jsonl": {
-      "mtimeMs": 1789217325016.5437
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/102cf0dd-3fd2-4368-9db6-cc2dc945e084/102cf0dd-3fd2-4368-9db6-cc2dc945e084.jsonl": {
-      "mtimeMs": 1789367004310.66
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8c9bd31b-d500-40ff-ad61-e17201993e1d/8c9bd31b-d500-40ff-ad61-e17201993e1d.jsonl": {
-      "mtimeMs": 1791125454488.7349
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873.jsonl": {
-      "mtimeMs": 1789394362684.4534
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873/subagents/754b1f62-56ee-4146-9854-391da4c43130.jsonl": {
-      "mtimeMs": 1789390263552.4487
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cacb780f-b598-4c7c-8869-d0871e55c4d5/cacb780f-b598-4c7c-8869-d0871e55c4d5.jsonl": {
-      "mtimeMs": 1789206313498.3374
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/847bdc52-d7e5-4095-a7ac-5f06778dee58.jsonl": {
-      "mtimeMs": 1789286033476.7656
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/subagents/ec526c86-af18-4f18-9068-00e2d0f3c01c.jsonl": {
-      "mtimeMs": 1789280225127.7698
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/subagents/0e611112-f61d-4b2e-bd74-a534bbdbd955.jsonl": {
-      "mtimeMs": 1789280097365.6797
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8e1ca349-233f-4fba-9c90-95157ebee516/8e1ca349-233f-4fba-9c90-95157ebee516.jsonl": {
-      "mtimeMs": 1791211660982.7659
-    },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6ea27f18-0a0c-464e-8ff3-f7e7071dbe1e/6ea27f18-0a0c-464e-8ff3-f7e7071dbe1e.jsonl": {
-      "mtimeMs": 1791125302849.811
+      "mtimeMs": 1791125302849.8113
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6ea27f18-0a0c-464e-8ff3-f7e7071dbe1e/subagents/36562617-9ee5-4d7a-96bb-8f146926f283.jsonl": {
       "mtimeMs": 1791121601631.5205
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/a480177c-f898-4bda-9863-b07535e976d5.jsonl": {
-      "mtimeMs": 1791205013322.5186
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/4b2f01b2-f5b7-44ce-8ba9-3644b6547da3.jsonl": {
-      "mtimeMs": 1791192580539.441
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/c8372082-c8c0-454a-8283-cfe63b61a975.jsonl": {
-      "mtimeMs": 1791194728139.481
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/c9c79b96-6811-46a1-9e83-c683898b6fde.jsonl": {
-      "mtimeMs": 1791193028920.15
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/6c8d2672-9967-4d6f-a281-da1ca32029bd.jsonl": {
-      "mtimeMs": 1791194170777.9622
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f9d6802c-212d-4b82-b26f-36dbbbd0e718/f9d6802c-212d-4b82-b26f-36dbbbd0e718.jsonl": {
-      "mtimeMs": 1789193470691.9338
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d7d6be8b-4149-49fc-a610-cb95f54e3ab0/d7d6be8b-4149-49fc-a610-cb95f54e3ab0.jsonl": {
-      "mtimeMs": 1791297391944.5015
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/341e802f-a719-40cc-a17e-fa79719e5431.jsonl": {
-      "mtimeMs": 1789466799001.8906
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/e8267e29-9280-4222-863c-7088ab7af063.jsonl": {
-      "mtimeMs": 1789398559186.0496
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/97288470-1470-48a9-969c-78a28d328b81.jsonl": {
-      "mtimeMs": 1789466253399.673
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/c2c5ddd7-29c1-4a37-9dd2-492d2721a053.jsonl": {
-      "mtimeMs": 1789466285929.3003
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/12506a54-1eb1-4067-bd11-a421002b7b98.jsonl": {
-      "mtimeMs": 1789466265390.6086
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/16080fd6-5405-4489-b880-2a5043377041.jsonl": {
-      "mtimeMs": 1789466285905.2217
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/341e802f-a719-40cc-a17e-fa79719e5431/subagents/973489c0-891c-4ff5-867f-2270bd036611.jsonl": {
-      "mtimeMs": 1789466285917.7312
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d.jsonl": {
-      "mtimeMs": 1790262862815.567
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/f70fc9a6-e8f8-4d67-a6b1-6e1f0ac0181d.jsonl": {
-      "mtimeMs": 1790086547422.7776
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/fabcbabf-6e8a-435b-8db0-1e6d7925492b.jsonl": {
-      "mtimeMs": 1790001808003.9436
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/d29045d1-c671-4bb8-9809-327af19065cd.jsonl": {
-      "mtimeMs": 1790003099971.9827
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/5b08ca78-57a7-4068-8119-5b355567bedf.jsonl": {
-      "mtimeMs": 1790003099024.0574
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/92916142-9ae7-4cfb-958b-2a7740d5bcce.jsonl": {
-      "mtimeMs": 1790003127988.4856
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/8b25a58a-16ec-4c9e-9c6e-b6a868417d9d.jsonl": {
-      "mtimeMs": 1790078485404.098
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/6ebfcd24-3d0a-4139-8459-362db2f94115.jsonl": {
-      "mtimeMs": 1790142663097.649
-    },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/55591b9c-dbc7-446f-9f2a-08ee66aa5605/55591b9c-dbc7-446f-9f2a-08ee66aa5605.jsonl": {
-      "mtimeMs": 1791126437979.1113
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6f5847bc-1d3f-41c3-ad55-2d76adca0df3/6f5847bc-1d3f-41c3-ad55-2d76adca0df3.jsonl": {
       "mtimeMs": 1789880820856.9465
@@ -424,65 +349,257 @@
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/6f5847bc-1d3f-41c3-ad55-2d76adca0df3/subagents/f6f47937-4d5c-43f0-a791-1c81da2b182e.jsonl": {
       "mtimeMs": 1789880816061.7322
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7.jsonl": {
-      "mtimeMs": 1791128270415.2778
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/7a9f8224-9dcc-49b8-9dd3-92566f56af80/7a9f8224-9dcc-49b8-9dd3-92566f56af80.jsonl": {
+      "mtimeMs": 1789212525986.6765
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/14524a4b-6fd4-411f-acd9-ff9d30b45582.jsonl": {
-      "mtimeMs": 1791037142833.8403
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/83f71d52-d63c-42eb-be6b-2aa442874955/83f71d52-d63c-42eb-be6b-2aa442874955.jsonl": {
+      "mtimeMs": 1789213594917.1287
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ee7ac5a1-dc65-4574-9d88-1c55dd34b6f0.jsonl": {
-      "mtimeMs": 1791038041495.5654
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/847bdc52-d7e5-4095-a7ac-5f06778dee58.jsonl": {
+      "mtimeMs": 1789286033476.7656
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/4e25952d-b96b-45b8-a3f1-99d2dbd2a56b.jsonl": {
-      "mtimeMs": 1791038034342.5532
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/subagents/0e611112-f61d-4b2e-bd74-a534bbdbd955.jsonl": {
+      "mtimeMs": 1789280097365.6797
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ff237c45-a2cf-4924-9dd7-23c2ed4de5ac.jsonl": {
-      "mtimeMs": 1791039783191.4172
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/847bdc52-d7e5-4095-a7ac-5f06778dee58/subagents/ec526c86-af18-4f18-9068-00e2d0f3c01c.jsonl": {
+      "mtimeMs": 1789280225127.7695
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/f5c7d2cc-8be1-4e1c-b6fe-fb71da7c9652.jsonl": {
-      "mtimeMs": 1791038035313.6672
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8c9bd31b-d500-40ff-ad61-e17201993e1d/8c9bd31b-d500-40ff-ad61-e17201993e1d.jsonl": {
+      "mtimeMs": 1791125454488.7349
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/95a6acca-7be6-460d-a2c8-0517147f3ea0.jsonl": {
-      "mtimeMs": 1791037127984.7463
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8e1ca349-233f-4fba-9c90-95157ebee516/8e1ca349-233f-4fba-9c90-95157ebee516.jsonl": {
+      "mtimeMs": 1791211660982.7659
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ff0050b8-306d-4654-9b46-fe9037df6c62.jsonl": {
-      "mtimeMs": 1791038029634.3125
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8f751888-e70e-4b16-9da0-56547f5596f6/8f751888-e70e-4b16-9da0-56547f5596f6.jsonl": {
+      "mtimeMs": 1791396070306.564
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/452a4d93-4ffb-42bb-8d3a-07f64a7ffa6d.jsonl": {
-      "mtimeMs": 1791037136094.5667
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/8f751888-e70e-4b16-9da0-56547f5596f6/subagents/eb48fa79-0fc7-4e6f-ae18-f603761943bd.jsonl": {
+      "mtimeMs": 1791395581446.3965
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/48df6baf-b13d-48cb-a0fc-1ca7f94a33e8/48df6baf-b13d-48cb-a0fc-1ca7f94a33e8.jsonl": {
-      "mtimeMs": 1791131092372.2014
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/95d887b0-bc5c-4547-8231-b45a6643bdce/95d887b0-bc5c-4547-8231-b45a6643bdce.jsonl": {
+      "mtimeMs": 1791025514791.7012
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/5d78fe1e-5591-4fb4-8705-4c664675ca79/5d78fe1e-5591-4fb4-8705-4c664675ca79.jsonl": {
-      "mtimeMs": 1791027043609.2034
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/95d887b0-bc5c-4547-8231-b45a6643bdce/subagents/ca87804b-568f-42b7-980d-da381e3cfc34.jsonl": {
+      "mtimeMs": 1791021430297.3064
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c90d6189-5e4c-49ce-8a9b-fd3cc7ea8bbd/c90d6189-5e4c-49ce-8a9b-fd3cc7ea8bbd.jsonl": {
-      "mtimeMs": 1791352811712.8394
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873.jsonl": {
+      "mtimeMs": 1789394362684.4534
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/98c0816f-7a2c-4baf-8fbf-e8b1c86e1873/subagents/754b1f62-56ee-4146-9854-391da4c43130.jsonl": {
+      "mtimeMs": 1789390263552.4487
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/9e0ed2b2-baf9-4459-b551-3751a2c73764/9e0ed2b2-baf9-4459-b551-3751a2c73764.jsonl": {
       "mtimeMs": 1791133680491.5017
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d6ff11e9-1079-42c1-8ab7-4ebfe7399901/d6ff11e9-1079-42c1-8ab7-4ebfe7399901.jsonl": {
-      "mtimeMs": 1789478888556.0544
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/a480177c-f898-4bda-9863-b07535e976d5.jsonl": {
+      "mtimeMs": 1791205013322.5186
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/4b2f01b2-f5b7-44ce-8ba9-3644b6547da3.jsonl": {
+      "mtimeMs": 1791192580539.441
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/6c8d2672-9967-4d6f-a281-da1ca32029bd.jsonl": {
+      "mtimeMs": 1791194170777.9622
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/c8372082-c8c0-454a-8283-cfe63b61a975.jsonl": {
+      "mtimeMs": 1791194728139.4812
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/a480177c-f898-4bda-9863-b07535e976d5/subagents/c9c79b96-6811-46a1-9e83-c683898b6fde.jsonl": {
+      "mtimeMs": 1791193028920.15
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/ad1ac24b-3268-499b-bda1-f2dfc160848b/ad1ac24b-3268-499b-bda1-f2dfc160848b.jsonl": {
+      "mtimeMs": 1791021620339.3318
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/c0657256-7055-4dd0-97d4-0e4922faf059.jsonl": {
+      "mtimeMs": 1789207791767.3657
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/subagents/9a8aee45-c0f2-4338-a670-e86b4365fa4b.jsonl": {
+      "mtimeMs": 1789206570277.3015
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c0657256-7055-4dd0-97d4-0e4922faf059/subagents/c8d3952b-00c1-42d6-9a68-8ae139f2695f.jsonl": {
+      "mtimeMs": 1789194478157.4426
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c26198a3-13ab-4b18-bb12-e34519740762/c26198a3-13ab-4b18-bb12-e34519740762.jsonl": {
+      "mtimeMs": 1791357960819.491
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c26198a3-13ab-4b18-bb12-e34519740762/subagents/94698e0d-7ed7-441b-8b9c-db0cf62848b3.jsonl": {
+      "mtimeMs": 1791357955481.492
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c5efb317-863a-4775-a703-d255e25ea016/c5efb317-863a-4775-a703-d255e25ea016.jsonl": {
       "mtimeMs": 1789444286978.941
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/25101430-bca4-406e-a9e6-e424211aa7cc/25101430-bca4-406e-a9e6-e424211aa7cc.jsonl": {
-      "mtimeMs": 1791189790343.8926
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c85b44e7-63aa-4d0d-b062-8b92bd11bbf4/c85b44e7-63aa-4d0d-b062-8b92bd11bbf4.jsonl": {
+      "mtimeMs": 1791390639950.0867
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/58665dcb-c167-46c5-8126-dc5b95c7c47a/58665dcb-c167-46c5-8126-dc5b95c7c47a.jsonl": {
-      "mtimeMs": 1789146530747.4814
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c90d6189-5e4c-49ce-8a9b-fd3cc7ea8bbd/c90d6189-5e4c-49ce-8a9b-fd3cc7ea8bbd.jsonl": {
+      "mtimeMs": 1791352811712.8394
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cacb780f-b598-4c7c-8869-d0871e55c4d5/cacb780f-b598-4c7c-8869-d0871e55c4d5.jsonl": {
+      "mtimeMs": 1789206313498.3374
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/cdcf0563-8a9c-48ad-b39b-a8f6116761e7.jsonl": {
+      "mtimeMs": 1791162742132.6733
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/aad2d358-e4cf-46ca-8071-e8b8c7fa032d.jsonl": {
+      "mtimeMs": 1791157804920.6348
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/c7fed77c-95d9-4017-9cdc-fe17a5cd38b6.jsonl": {
+      "mtimeMs": 1791162448770.5764
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/d875f125-15c5-41a2-ab6f-504b1d17dcce.jsonl": {
+      "mtimeMs": 1791162686212.0251
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/cdcf0563-8a9c-48ad-b39b-a8f6116761e7/subagents/db456a4d-1963-4a23-9955-2734acd3a561.jsonl": {
+      "mtimeMs": 1791129060407.381
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/d2a6aed6-8778-4f48-8cdd-024f67678d12.jsonl": {
+      "mtimeMs": 1791345358045.904
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/41c245c8-5092-483d-b822-0514fdf6af49.jsonl": {
+      "mtimeMs": 1791218966472.4775
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/5c305fed-95ed-4238-854f-151e322f6b6f.jsonl": {
+      "mtimeMs": 1791331682957.229
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/ca554628-6178-48a8-abcb-f6ae11ee22c0.jsonl": {
+      "mtimeMs": 1791211756210.6462
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d2a6aed6-8778-4f48-8cdd-024f67678d12/subagents/ef41ec9c-4b4b-46f7-a04d-0d6c4891eb09.jsonl": {
+      "mtimeMs": 1791294663598.5474
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d6ff11e9-1079-42c1-8ab7-4ebfe7399901/d6ff11e9-1079-42c1-8ab7-4ebfe7399901.jsonl": {
+      "mtimeMs": 1789478888556.0542
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d7d6be8b-4149-49fc-a610-cb95f54e3ab0/d7d6be8b-4149-49fc-a610-cb95f54e3ab0.jsonl": {
+      "mtimeMs": 1791297391944.5012
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/dec85454-35d3-4970-a119-5578f6a7ad92/dec85454-35d3-4970-a119-5578f6a7ad92.jsonl": {
+      "mtimeMs": 1791393419830.4336
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e122d938-9b2b-440b-9ae4-1d2b75e354da/e122d938-9b2b-440b-9ae4-1d2b75e354da.jsonl": {
+      "mtimeMs": 1789217325016.5437
     },
     "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e4dde772-4e58-4cd9-b2a3-eb4e53247382/e4dde772-4e58-4cd9-b2a3-eb4e53247382.jsonl": {
       "mtimeMs": 1791378981114.9888
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/2c92a3fc-850e-4415-bc6d-a9befc5df75b.jsonl": {
-      "mtimeMs": 1791379786706.8145
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5.jsonl": {
+      "mtimeMs": 1791393426194.897
     },
-    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/2c92a3fc-850e-4415-bc6d-a9befc5df75b/subagents/8737d327-125a-40f8-b588-fbe619000921.jsonl": {
-      "mtimeMs": 1791379958910.2866
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/085c7c54-027a-408b-ac44-289abcc09d01.jsonl": {
+      "mtimeMs": 1791393103007.977
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/0d566706-c95f-46f5-bb0e-fabcb665a0b9.jsonl": {
+      "mtimeMs": 1791393098547.069
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/155b3fe5-46aa-4737-8f42-2e3697cadf1a.jsonl": {
+      "mtimeMs": 1791393072160.548
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/8edd762a-db73-4660-a4ef-3c112b9a9847.jsonl": {
+      "mtimeMs": 1791393142049.963
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/a37d5136-9c33-4e36-b4d4-c47c808a69d7.jsonl": {
+      "mtimeMs": 1791393324686.1653
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/ddfc5ea8-053c-4bb8-8559-5e1e7f6dbe10.jsonl": {
+      "mtimeMs": 1791393332589.6665
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/f9b8530f-3ef1-4333-9f55-136da67bef05.jsonl": {
+      "mtimeMs": 1791393325010.8914
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/e8bec6bf-8cd3-4be2-b659-2597c9e5f2e5/subagents/fb7340e4-b3b8-4e59-acce-a19ccaefcf6e.jsonl": {
+      "mtimeMs": 1791393405107.0793
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/ed67f5c8-343b-45ed-bfb0-79b6e6685345/ed67f5c8-343b-45ed-bfb0-79b6e6685345.jsonl": {
+      "mtimeMs": 1789490864138.1301
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/f0745032-0514-4145-a88f-0492457d117e.jsonl": {
+      "mtimeMs": 1789462096310.5166
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/5fd8b793-9485-4743-8891-6926f12a6ff1.jsonl": {
+      "mtimeMs": 1789460608965.0266
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/990a1509-c339-433f-9c20-0f7e80afd813.jsonl": {
+      "mtimeMs": 1789460577966.712
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f0745032-0514-4145-a88f-0492457d117e/subagents/b05d118b-596a-49b0-a2cd-70804bd7ce32.jsonl": {
+      "mtimeMs": 1789460651083.9436
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d.jsonl": {
+      "mtimeMs": 1790262862815.5671
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/5b08ca78-57a7-4068-8119-5b355567bedf.jsonl": {
+      "mtimeMs": 1790003099024.0574
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/6ebfcd24-3d0a-4139-8459-362db2f94115.jsonl": {
+      "mtimeMs": 1790142663097.649
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/8b25a58a-16ec-4c9e-9c6e-b6a868417d9d.jsonl": {
+      "mtimeMs": 1790078485404.098
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/92916142-9ae7-4cfb-958b-2a7740d5bcce.jsonl": {
+      "mtimeMs": 1790003127988.4856
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/d29045d1-c671-4bb8-9809-327af19065cd.jsonl": {
+      "mtimeMs": 1790003099971.9827
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/f70fc9a6-e8f8-4d67-a6b1-6e1f0ac0181d.jsonl": {
+      "mtimeMs": 1790086547422.7776
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f34bec9e-d8c1-4ab9-89e2-a1cbc834d86d/subagents/fabcbabf-6e8a-435b-8db0-1e6d7925492b.jsonl": {
+      "mtimeMs": 1790001808003.9436
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7.jsonl": {
+      "mtimeMs": 1791128270415.2776
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/14524a4b-6fd4-411f-acd9-ff9d30b45582.jsonl": {
+      "mtimeMs": 1791037142833.8406
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/452a4d93-4ffb-42bb-8d3a-07f64a7ffa6d.jsonl": {
+      "mtimeMs": 1791037136094.5667
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/4e25952d-b96b-45b8-a3f1-99d2dbd2a56b.jsonl": {
+      "mtimeMs": 1791038034342.553
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/95a6acca-7be6-460d-a2c8-0517147f3ea0.jsonl": {
+      "mtimeMs": 1791037127984.7463
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ee7ac5a1-dc65-4574-9d88-1c55dd34b6f0.jsonl": {
+      "mtimeMs": 1791038041495.5654
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/f5c7d2cc-8be1-4e1c-b6fe-fb71da7c9652.jsonl": {
+      "mtimeMs": 1791038035313.6672
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ff0050b8-306d-4654-9b46-fe9037df6c62.jsonl": {
+      "mtimeMs": 1791038029634.3123
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f64a6c5e-e4ab-4ec1-b281-9b5e03b570f7/subagents/ff237c45-a2cf-4924-9dd7-23c2ed4de5ac.jsonl": {
+      "mtimeMs": 1791039783191.4172
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/f9d6802c-212d-4b82-b26f-36dbbbd0e718/f9d6802c-212d-4b82-b26f-36dbbbd0e718.jsonl": {
+      "mtimeMs": 1789193470691.9338
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/724f9e5a-21b7-41b4-b965-5ed0207aca72/724f9e5a-21b7-41b4-b965-5ed0207aca72.jsonl": {
+      "mtimeMs": 1791537161595.424
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/724f9e5a-21b7-41b4-b965-5ed0207aca72/subagents/8fabb4e6-a582-452c-a282-e36930ba60a6.jsonl": {
+      "mtimeMs": 1791467502542.2322
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/724f9e5a-21b7-41b4-b965-5ed0207aca72/subagents/c40a3bf3-7d4e-42ab-91d6-bc74d387ca61.jsonl": {
+      "mtimeMs": 1791535300988.4922
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/3dfb7aab-36a8-4325-a6f9-f5f6cc109370/3dfb7aab-36a8-4325-a6f9-f5f6cc109370.jsonl": {
+      "mtimeMs": 1792076281160.3
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/3dfb7aab-36a8-4325-a6f9-f5f6cc109370/subagents/85f64663-3ca9-4819-907c-13e70e73a2c2.jsonl": {
+      "mtimeMs": 1792076282486.3435
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/4ccf0f4c-da7b-4b30-8c61-c288d39e798f/4ccf0f4c-da7b-4b30-8c61-c288d39e798f.jsonl": {
+      "mtimeMs": 1792074541648.7075
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/c3b7e23a-5ad6-4e33-adc3-dbbca5011b24/c3b7e23a-5ad6-4e33-adc3-dbbca5011b24.jsonl": {
+      "mtimeMs": 1792072820779.004
+    },
+    "/Users/vimchain/.cursor/projects/Users-vimchain-Obsidian/agent-transcripts/d74945d5-933f-4ecd-a791-ebc8e94a1993/d74945d5-933f-4ecd-a791-ebc8e94a1993.jsonl": {
+      "mtimeMs": 1791538985569.8582
     }
   }
 }

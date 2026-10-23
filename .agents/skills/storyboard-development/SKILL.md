@@ -284,7 +284,9 @@ description: 将已确认的剧本场景、段落或全片转化为导演分镜�
 1. 确认 **视频分类**：**MiniMax H3** → 读 `minimax-h3-prompt`；**Seedance 2.5** → 读 `seedance-prompt`（见 [prompt-generation.md](prompt-generation.md)）。
 2. 写入独立文件（如 `MiniMax H3.md`、`Seedance.md`），**不要**把可贴入块塞进 `Storyboard - Draft N.md`。
 3. 每条对应分镜镜号；H3 一镜一条（4–15 秒整数）；绑定 `Characters.md` / `Scenes.md` / `Assets.md` 参考图时按图 N 顺序。
-4. 可贴入词 **只写本镜** 色光与禁令，不写全片总谱、场号对照等剧本背景句（见 prompt-generation）。
+4. 可贴入词 **只写本镜** 色光与禁令，不写全片总谱、场号对照等剧本背景句（见 prompt-generation）。持有人的名字和前因留在对照；裁切仍按持有事实决定。
+5. 需要支撑的道具先确认持有人，再写这一镜的可见部分。入画的人被禁止碰到它时，写裁切后留下的那一段，不把持有写成消失（见 prompt-generation「持有与入画分开」）。
+6. 人的起点写成这一帧身体所在的体积和朝向。下缘、暗区留在对照，不代替站位。朝向背对下一步要碰的人时，先写转身再写伸手。被碰到的袖口、皮肤、手写上图N或总谱里的同一指代，不用「那只」回指（见 prompt-generation「这一帧的身体写全」）。
 
 **门槛：** 开关为关则跳过。开关为开时，约定范围内每镜有对应分类的条目；H3 条目符合 minimax-h3-prompt、Seedance 条目符合 seedance-prompt；镜号与分镜表一致。
 
