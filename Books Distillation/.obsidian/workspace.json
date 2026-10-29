@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/人设心理学（基拉-安妮·派力肯）.md",
+                "file": "Maps/表演、声音与剪辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人设心理学（基拉-安妮·派力肯）"
+              "title": "表演、声音与剪辑"
             }
           }
         ]
@@ -171,16 +171,6 @@
             }
           },
           {
-            "id": "cee433696e9a79c0",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
-            }
-          },
-          {
             "id": "298abd04ea5e600b",
             "type": "leaf",
             "state": {
@@ -195,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.37890625
+    "width": 626.37890625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,32 +203,33 @@
   },
   "active": "b41afdf4f5240471",
   "lastOpenFiles": [
-    "Outputs/briefings/扫描类剧本分镜书逐章对表-2026-10-05.md",
-    "Concepts/走位戏剧运动分走近与走开.md",
-    "Concepts/认同边界调节观众参与深度.md",
-    "Concepts/秩序与混乱可写成视觉性格.md",
-    "Concepts/知情差安排揭示与隐藏.md",
-    "Concepts/特稿开头是写给读者的合同.md",
-    "Concepts/心理主光标在定义镜.md",
-    "Concepts/情感和故事优先于空间连续.md",
-    "Concepts/声音可以先于画面发动切换.md",
-    "Concepts/切换动机与切换类型要分开设计.md",
-    "Concepts/分镜应是导演侦查的终点.md",
-    "Concepts/摄影机的叙述立场先于物理视点.md",
-    "Concepts/视觉成分要随故事曲线组织.md",
-    "Concepts/新镜头必须带来新信息.md",
-    "Concepts/场景支点决定峰值镜落在哪里.md",
-    "Concepts/负空间也能承担叙事.md",
-    "Concepts/空间深度有四种叙事状态.md",
-    "Concepts/戏剧段落把场景分成可导演单元.md",
-    "Concepts/每一格只承担一个视觉主意.md",
-    "Concepts/对比与相似调节视觉强度.md",
-    "Sources/Framed Ink（马科斯·马特乌-梅斯特雷）.md",
-    "Sources/Directing the Story（弗朗西斯·格利巴斯）.md",
-    "Sources/Film Directing Fundamentals 第2版（尼古拉斯·T·普罗费雷斯）.md",
-    "Sources/The Visual Story 第3版（布鲁斯·布洛克）.md",
-    "Sources/Grammar of the Edit 第5版（克里斯托弗·J·鲍恩）.md",
-    "Concepts/过肩镜头要有单独布光设计.md",
+    "Concepts/情绪不能执行，及物动词才能执行.md",
+    "Maps/表演、声音与剪辑.md",
+    "Sources/人设心理学（基拉-安妮·派力肯）.md",
+    "Outputs/briefings/四本电影制作书蒸馏-2026-10-26.md",
+    "Concepts/声音把切开的画面连成一条流.md",
+    "Concepts/对白分三种：戏剧性、文本性、散发式.md",
+    "Sources/Audio-Vision（米歇尔·希翁）.md",
+    "Concepts/停顿不能死停，停里要有东西在动.md",
+    "Concepts/对白先画重音，不是先画嘴型.md",
+    "Concepts/身体是分节的，一部分先动其余跟随.md",
+    "Concepts/重音分软硬：硬的弹回，软的继续.md",
+    "Concepts/预备先广播意图，再反向蓄力.md",
+    "Concepts/跑步的界线是双脚同时离地.md",
+    "Concepts/走路是被重力不断接住的跌倒.md",
+    "Concepts/重量出现在身体被地面接住的那一格.md",
+    "Concepts/中间那一张放在哪里，就是动作的性格.md",
+    "Concepts/先搭骨架再长肉.md",
+    "Concepts/关键帧讲故事，极端帧管方向.md",
+    "Concepts/间距分配时间，时间分配间距.md",
+    "Sources/The Animator's Survival Kit（理查德·威廉姆斯）.md",
+    "Concepts/导演是观看者，演员是被观看者.md",
+    "Concepts/排练是找信息，不是找成品.md",
+    "Concepts/判断角色，演员就开始演连环画.md",
+    "Concepts/脊梁贯穿全片，转变由事件推动.md",
+    "Concepts/目标要具体到能看出输赢，而且只能有一个.md",
+    "Concepts/一场戏的事件是关系里的输赢，不是情绪起伏.md",
+    "Concepts/  - domain",
     "Concepts/对话调度I/L",
     "Concepts/对话调度I",
     "Sources/attachments/A Complete Guide To Volume Price Analysis（Anna Coulling）.epub",
@@ -247,7 +239,6 @@
     "Sources/attachments/走出幻觉走向成熟（金融帝国）.epub",
     "Sources/attachments/Trading in the Zone（Mark Douglas）.epub",
     "copilot/copilot-conversations",
-    "Sources/attachments/Fifty years in Wall Street.txt",
     "Untitled.canvas"
   ]
 }
