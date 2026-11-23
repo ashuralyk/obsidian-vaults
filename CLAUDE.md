@@ -58,7 +58,7 @@ Skills live only under `.agents/skills/` (workspace root for production skills; 
 **Workspace production skills** (`.agents/skills/`, route by task):
 - `screenplay-development` — idea → full screenplay with runtime lock, scoring/rewrite, and 3 synced attachments (character bios, shoot locations, props). Must ask Markdown vs Fountain before drafting. Key-prop "keep it whole" rule (转折/揭秘/高潮 must come from character choice, not combining/disassembling props).
 - `storyboard-development` — screenplay → storyboard/shot-list with dual scoring.
-- `minimax-h3-prompt` / `seedance-prompt` — video prompt generation (see routing below).
+- `prompt-writing-guide` — AI video prompt **writing craft** reference by default (not an automatic product template); explicit MiniMax H3 output triggers sibling `h3-prompt-writing` for format/validate.
 
 **PPK vault workflow skills** (`PPK/.agents/skills/`): `obsidian-api` (REST/MCP I/O), `ingest`, `query-vault`, `synthesize`, `graph-health`.
 
@@ -66,8 +66,8 @@ Skills live only under `.agents/skills/` (workspace root for production skills; 
 
 Video/short-film prompts are model-specific and must not be conflated:
 
-- **MiniMax H3 / H3 Max / 海螺 / Hailuo / MiniMax Design** → `minimax-h3-prompt` skill. 4–15 s integer clips (H3 Max 5–15 s), product formula (duration + ratio + 图N binding + subject/scene/motion/sound), three input modes. No cross-clip memory — each clip is a standalone paste.
-- **Seedance / 即梦 / 火山方舟** → `seedance-prompt` skill. Official structured prompt, 30 s per-shot ceiling, integer-second continuous timestamps, identity lock (people/places/props) across segments.
+- **Writing craft** (any model): → `prompt-writing-guide` (reference by default). **Explicit MiniMax H3**: `prompt-writing-guide` draft → load `.agents/skills/h3-prompt-writing/` to format/validate. Unspecified model: do not auto-apply H3 fields. Seedance: official docs + `prompt-writing-guide` (legacy `seedance-prompt` removed).
+
 - If the user did not name a model, ask which one — do not default.
 
 Shared hard rules across both (from `.cursor/rules/*.mdc` and the skills): characters/locations/hero-props are identity-locked and named; a phone in a frontal shot shows only its back (cut over-shoulder to read the screen); "no music" must ban melody and pads, not just 「无 BGM」; inner states are visible micro-expressions.

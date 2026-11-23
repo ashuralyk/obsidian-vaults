@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 分镜执行说明书"
+  short_description: "为白模预演编排走位、运镜和关键动作，或按现有资产编制动画执行说明。"
+  default_prompt: "使用 $blender-shot-execution，依据正式分镜和现有 Blender 工程编制分镜执行说明书。"

@@ -1,11 +1,12 @@
 ---
 type: source
 status: evergreen
-updated: 2026-10-05
+updated: 2026-11-20
 aliases:
   - Grammar of the Edit
   - 剪辑语法
 tags:
+  - domain/editing
   - type/source
   - domain/storyboard
 authors:
@@ -32,6 +33,10 @@ Christopher J. Bowen 著，Routledge 第五版，2024。本书是 [[Grammar of t
 ## 边界
 
 本书解释剪辑语法，不替代剪辑室里的表演取舍，也不主张连续性永远压过情感。故事需要故意跳切、断轴或非连续并置时，仍须说明它的叙事收益。
+
+## 相关版本
+
+[[剪辑的语法 插图第2版（罗伊·汤普森、克里斯托弗·J·鲍恩）]] 提供同一套剪辑语法在第二版的图例、术语与适用条件。
 
 ## 链接
 

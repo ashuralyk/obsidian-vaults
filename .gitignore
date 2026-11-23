@@ -1,5 +1,7 @@
 .env
+.tripo
 .cursor/.env
 .cursor/mcp.json
 PPK/.cursor/mcp.json
 Screenplays/
+output
